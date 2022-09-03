@@ -12,12 +12,16 @@ UnrealEngine4.27.02
 
 把球体放入后期盒子中，实现bloom效果。
 
-- 演示视频：
+- 演示视频（win包）：https://pan.baidu.com/s/1uzW8GPpCfNcju_nbPDBs-w 
+  ​	提取码：7799
+
+- 演示视频（ue4内）：
 
   链接：https://pan.baidu.com/s/1kagLBsPNACxTztTGzQcICQ 
   ​	提取码：7799
 
-- 
+- win包：https://pan.baidu.com/s/1saUCUJNlijEw1X9f77VnEw 
+  ​        提取码：7799 
 
 
 ## 日志
